@@ -1,0 +1,15 @@
+{
+  "name": "pa4-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API Node.js (Express) de apoyo para la Plataforma de Gestión de Solicitudes Académicas - PA4",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

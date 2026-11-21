@@ -1,0 +1,85 @@
+# README — Evaluación
+
+> **Curso:** PROGRAMACION WEB - II  
+> **Código:** 30690  
+> **Evaluación:** [PA4]  
+> **Equipo:** [GRUPO 5]  
+
+## 1. Integrantes
+
+| Integrante | Rol | Aporte principal |
+|---|---|---|
+| [Valeria Ravina Pérez] | [Desarrollador Frontend (Act. 1A)] | Consumo de API con Axios, manejo de errores y validación de respuestas en React; API Node.js de apoyo  |
+| [Nombre 2] | [Rol] | [Aporte] |
+| [Nombre 3] | [Rol] | [Aporte] |
+| [Nombre 4] | [Rol] | [Aporte] |
+| [Nombre 5] | [Rol] | [Aporte] |
+
+## 2. Descripción y objetivo
+
+**Problema:**  
+En el caso progresivo "Plataforma de Gestión de Solicitudes Académicas", el frontend debe conectarse con servicios Node.js, controlar el acceso de usuarios autenticados, evaluar alternativas de renderizado, publicarse en un entorno desplegado y prepararse para producción.
+
+**Objetivo:**  
+Evidenciar la integración de APIs y sesiones JWT en React, la optimización con Next.js mediante SSR/SSG y rutas dinámicas, el despliegue en Vercel y la preparación del código para producción (minificación, Webpack/Babel, variables de entorno, logs y monitoreo).
+
+**Solución desarrollada:**  
+- **Actividad 1 – Consumo de APIs y sesiones en React:** frontend React integrado con una API Node.js mediante Axios, con manejo de errores, validación de respuestas y flujo de sesión con JWT.
+- **Actividad 2 – Next.js:** proyecto con SSR y/o SSG en dos vistas, al menos una ruta dinámica y justificación técnica de la elección.
+- **Actividad 3 – Vercel:** despliegue del frontend con URL de revisión y verificación de rutas y vistas.
+- **Actividad 4 – Producción:** minificación/optimización, configuración de Webpack y Babel, variables de entorno y evidencias de logs/monitoreo.
+
+## 3. Cómo ejecutar o revisar
+
+```bash
+# Terminal 1 - API Node.js (puerto 4000)
+cd backend
+npm install
+npm start
+
+# Terminal 2 - Frontend React (puerto 5173)
+cd frontend-react
+npm install
+npm run dev
+
+# [AGREGUEN AQUI SUS COMANDOS!!!]
+```
+
+**Pasos de revisión:**
+1. Encender el backend y el frontend con los comandos de arriba.
+2. Abrir `http://localhost:5173` y verificar que carga la lista de solicitudes.
+3. Registrar una solicitud con el formulario y verificar que aparece en la lista.
+4. [AGREGUEN SUS PASOS]
+
+> No publicar contraseñas, tokens, credenciales ni datos sensibles.
+
+## 4. Evidencias
+
+Las evidencias se encuentran en la carpeta `docs/evidencias/`
+
+## 5. Matriz de participación
+
+| Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
+|---|---|---|---|---|---|
+| [Valeria Ravina Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits en GitHub y capturas de la Act. 1A en `docs/evidencias/`] |
+| [Nombre 2] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+
+## 6. Video de exposición
+
+**Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
+
+Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
+
+## 7. Conclusiones
+
+- Consumir una API desde React con Axios, manejando errores y validando las respuestas, hace la aplicación más estable y da mensajes claros al usuario.
+- La autenticación con JWT y la gestión de sesiones permiten controlar el acceso a la plataforma de forma coherente.
+- Next.js (SSR/SSG) y el despliegue en Vercel mejoran la entrega del contenido y permiten revisar la aplicación fuera del entorno local.
+- Preparar la aplicación para producción (variables de entorno, optimización y logs) facilita su mantenimiento y operación.
+
+---
+
+**Última actualización:** [DD/MM/AAAA]
