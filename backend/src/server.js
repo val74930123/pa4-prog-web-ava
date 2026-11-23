@@ -2,10 +2,26 @@ import express from 'express';
 import cors from 'cors';
 
 const app = express();
-const PORT = 4000;
+const PORT = Number(process.env.PORT) || 4000;
 
 app.use(cors({ origin: 'http://localhost:5173' }));
 app.use(express.json());
+
+
+// Registro de peticiones HTTP
+app.use((req, res, next) => {
+    const inicio = Date.now();
+
+    res.on('finish', () => {
+        const duracion = Date.now() - inicio;
+
+        console.log(
+            `[${new Date().toISOString()}] ${req.method} ${req.originalUrl} - ${res.statusCode} - ${duracion}ms`
+        );
+    });
+
+    next();
+});
 
 let solicitudes = [
     { id: 1, titulo: 'Constancia de estudios', solicitante: 'Ana Torres', estado: 'Pendiente' },
