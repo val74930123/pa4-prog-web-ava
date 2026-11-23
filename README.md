@@ -10,7 +10,7 @@
 | Integrante | Rol | Aporte principal |
 |---|---|---|
 | [Valeria Ravina Pérez] | [Desarrollador Frontend (Act. 1A)] | Consumo de API con Axios, manejo de errores y validación de respuestas en React; API Node.js de apoyo  |
-| [Nombre 2] | [Rol] | [Aporte] |
+| [Alejandro Daniel Quispe Nieto] | [Desplieue del frontend en vercel] | [desplegar en Vercel el frontend Next.js y verificar sus rutas principales,] |
 | [Nombre 3] | [Rol] | [Aporte] |
 | [Nombre 4] | [Rol] | [Aporte] |
 | [Nombre 5] | [Rol] | [Aporte] |
@@ -62,7 +62,7 @@ Las evidencias se encuentran en la carpeta `docs/evidencias/`
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
 | [Valeria Ravina Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits en GitHub y capturas de la Act. 1A en `docs/evidencias/`] |
-| [Nombre 2] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| [Alejandro Daniel Quispe Nieto] | [Alta] | [Alta] | [Alta] | [Si] | [Commits, avances, etc.] |
 | [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
