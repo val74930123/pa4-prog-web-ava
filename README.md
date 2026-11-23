@@ -56,7 +56,9 @@ npm run start
 2. Abrir `http://localhost:5173` y verificar que carga la lista de solicitudes.
 3. Registrar una solicitud con el formulario y verificar que aparece en la lista.
 4. Abrir `http://localhost:3000` para revisar la aplicación Next.js: Entrar a la vista estática (`/ssg`), la vista dinámica en servidor (`/ssr`, comprobando que la hora cambie al recargar) y la ruta dinámica de detalle (`/solicitudes/001`, `/solicitudes/002` y `/solicitudes/100` para verificar el error 404).
-5. [AGREGUEN SUS PASOS]
+5. Verificación de producción: Revisar la terminal del backend y comprobar que se registran las peticiones HTTP realizadas desde React, incluyendo el método, la ruta, el código de respuesta y el tiempo de respuesta.
+6. Verificar que las compilaciones de producción de Vite y Next.js finalicen correctamente mediante npm run build.
+7. [AGREGUEN SUS PASOS]
 
 > No publicar contraseñas, tokens, credenciales ni datos sensibles.
 
