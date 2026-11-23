@@ -13,7 +13,7 @@
 | [Alejandro Daniel Quispe Nieto] | [Desplieue del frontend en vercel] | [desplegar en Vercel el frontend Next.js y verificar sus rutas principales,] |
 | Rodrigo Arturo Paredes Santa Cruz | Desarrollador Frontend - Next.js (Act. 2) | Implementación de vistas SSG, SSR y rutas dinámicas de solicitudes en Next.js |
 | [Nombre 4] | [Rol] | [Aporte] |
-| [Nombre 5] | [Rol] | [Aporte] |
+| Alejandro Chero Izaguirre | Preparación para producción (Act. 4) | Optimización de compilación con Vite y Next.js, configuración de variables de entorno y registro de peticiones HTTP mediante logs |
 
 ## 2. Descripción y objetivo
 
@@ -71,7 +71,7 @@ Las evidencias se encuentran en la carpeta `docs/evidencias/`
 | [Valeria Ravina Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits en GitHub y capturas de la Act. 1A en `docs/evidencias/`] |
 | [Alejandro Daniel Quispe Nieto] | [Alta] | [Alta] | [Alta] | [Si] | [Commits, avances, etc.] |
 | Rodrigo Arturo Paredes Santa Cruz | Alta | Alta | Alta | Sí | Commits en GitHub y capturas de la Act. 2 en `docs/evidencias-act2/`|
-| [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| Alejandro Chero Izaguirre | Alta | Alta | Alta | Sí | Commits en GitHub y capturas de la Act. 4 en `docs/evidencias-act4/` |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
 ## 6. Video de exposición
