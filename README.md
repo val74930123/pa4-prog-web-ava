@@ -11,7 +11,7 @@
 |---|---|---|
 | [Valeria Ravina Pérez] | [Desarrollador Frontend (Act. 1A)] | Consumo de API con Axios, manejo de errores y validación de respuestas en React; API Node.js de apoyo  |
 | [Alejandro Daniel Quispe Nieto] | [Desplieue del frontend en vercel] | [desplegar en Vercel el frontend Next.js y verificar sus rutas principales,] |
-| [Nombre 3] | [Rol] | [Aporte] |
+| Rodrigo Arturo Paredes Santa Cruz | Desarrollador Frontend - Next.js (Act. 2) | Implementación de vistas SSG, SSR y rutas dinámicas de solicitudes en Next.js |
 | [Nombre 4] | [Rol] | [Aporte] |
 | [Nombre 5] | [Rol] | [Aporte] |
 
@@ -42,6 +42,12 @@ cd frontend-react
 npm install
 npm run dev
 
+# Terminal 3 - Aplicación Next.js (puerto 3000)
+cd next-solicitudes
+npm install
+npm run build
+npm run start
+
 # [AGREGUEN AQUI SUS COMANDOS!!!]
 ```
 
@@ -49,7 +55,8 @@ npm run dev
 1. Encender el backend y el frontend con los comandos de arriba.
 2. Abrir `http://localhost:5173` y verificar que carga la lista de solicitudes.
 3. Registrar una solicitud con el formulario y verificar que aparece en la lista.
-4. [AGREGUEN SUS PASOS]
+4. Abrir `http://localhost:3000` para revisar la aplicación Next.js: Entrar a la vista estática (`/ssg`), la vista dinámica en servidor (`/ssr`, comprobando que la hora cambie al recargar) y la ruta dinámica de detalle (`/solicitudes/001`, `/solicitudes/002` y `/solicitudes/100` para verificar el error 404).
+5. [AGREGUEN SUS PASOS]
 
 > No publicar contraseñas, tokens, credenciales ni datos sensibles.
 
@@ -63,7 +70,7 @@ Las evidencias se encuentran en la carpeta `docs/evidencias/`
 |---|---|---|---|---|---|
 | [Valeria Ravina Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits en GitHub y capturas de la Act. 1A en `docs/evidencias/`] |
 | [Alejandro Daniel Quispe Nieto] | [Alta] | [Alta] | [Alta] | [Si] | [Commits, avances, etc.] |
-| [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| Rodrigo Arturo Paredes Santa Cruz | Alta | Alta | Alta | Sí | Commits en GitHub y capturas de la Act. 2 en `docs/evidencias-act2/`|
 | [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
