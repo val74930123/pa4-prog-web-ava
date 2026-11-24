@@ -76,7 +76,7 @@ Las evidencias se encuentran en la carpeta `docs/evidencias/`
 | [Valeria Ravina Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits en GitHub y capturas de la Act. 1A en `docs/evidencias/`] |
 | [Alejandro Daniel Quispe Nieto] | [Alta] | [Alta] | [Alta] | [Si] | [Commits en GitHub y capturas de la Act. 3 en `docs/evidencias-act-3/`] |
 | Rodrigo Arturo Paredes Santa Cruz | Alta | Alta | Alta | Sí | Commits en GitHub y capturas de la Act. 2 en `docs/evidencias-act2/`|
-| Alejandro Chero Izaguirre | Alta | Alta | Alta | Sí | Commits en GitHub y capturas de la Act. 4 en `docs/evidencias-act4/` |
+| Alejandro Chero Izaguirre | Alta | Alta | Alta | Sí | Commits en GitHub, documentacion y capturas de la Act. 4 en `docs/evidencias-act4/` |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
 ## 6. Video de exposición
