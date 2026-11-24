@@ -4,6 +4,7 @@ import express from 'express';
 import cors from 'cors';
 import cookieParser from 'cookie-parser';
 import authRoutes from './authRoutes.js';
+import { verificarToken } from './middleware/authMiddleware.js';
 
 const app = express();
 const PORT = Number(process.env.PORT) || 4000;
@@ -34,6 +35,9 @@ app.use((req, res, next) => {
 
 // Rutas de autenticación
 app.use('/api/auth', authRoutes);
+
+// Todas las rutas de /api/solicitudes exigen una sesión válida (cookie JWT)
+app.use('/api/solicitudes', verificarToken);
 
 // Datos de solicitudes existentes
 let solicitudes = [
