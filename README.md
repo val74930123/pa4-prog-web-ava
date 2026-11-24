@@ -48,6 +48,8 @@ npm install
 npm run build
 npm run start
 
+
+
 # [AGREGUEN AQUI SUS COMANDOS!!!]
 ```
 
@@ -58,7 +60,8 @@ npm run start
 4. Abrir `http://localhost:3000` para revisar la aplicación Next.js: Entrar a la vista estática (`/ssg`), la vista dinámica en servidor (`/ssr`, comprobando que la hora cambie al recargar) y la ruta dinámica de detalle (`/solicitudes/001`, `/solicitudes/002` y `/solicitudes/100` para verificar el error 404).
 5. Verificación de producción: Revisar la terminal del backend y comprobar que se registran las peticiones HTTP realizadas desde React, incluyendo el método, la ruta, el código de respuesta y el tiempo de respuesta.
 6. Verificar las compilaciones de producción ejecutando npm run build en las carpetas frontend-react y next-solicitudes, comprobando que finalicen correctamente.
-7. [AGREGUEN SUS PASOS]
+7. Abre https://pa4-act3.vercel.app/ y comprueba que cargue el inicio; luego revisa las vistas /ssg y /ssr.
+8. Desde el inicio, pulsa Ver detalles y confirma que una ruta como /solicitudes/001 muestre los datos de la solicitud.
 
 > No publicar contraseñas, tokens, credenciales ni datos sensibles.
 
@@ -71,7 +74,7 @@ Las evidencias se encuentran en la carpeta `docs/evidencias/`
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
 | [Valeria Ravina Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits en GitHub y capturas de la Act. 1A en `docs/evidencias/`] |
-| [Alejandro Daniel Quispe Nieto] | [Alta] | [Alta] | [Alta] | [Si] | [Commits, avances, etc.] |
+| [Alejandro Daniel Quispe Nieto] | [Alta] | [Alta] | [Alta] | [Si] | [Commits en GitHub y capturas de la Act. 3 en `docs/evidencias-act-3/`] |
 | Rodrigo Arturo Paredes Santa Cruz | Alta | Alta | Alta | Sí | Commits en GitHub y capturas de la Act. 2 en `docs/evidencias-act2/`|
 | Alejandro Chero Izaguirre | Alta | Alta | Alta | Sí | Commits en GitHub y capturas de la Act. 4 en `docs/evidencias-act4/` |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
