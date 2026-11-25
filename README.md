@@ -49,8 +49,6 @@ npm run build
 npm run start
 
 
-
-# [AGREGUEN AQUI SUS COMANDOS!!!]
 ```
 
 **Configuración previa del backend (autenticación JWT, Act. 1B):**
@@ -101,7 +99,7 @@ Evidencias de la Act. 1B (autenticación JWT): `docs/evidencias-act1b/`.
 
 ## 6. Video de exposición
 
-**Video público de YouTube:** [PEGAR AQUÍ EL ENLACE]
+**Video público de YouTube:** https://youtu.be/Vr03INf0s7I?feature=shared
 
 Todos los integrantes deben participar en la exposición con sus cámaras prendidas y explicar el procedimiento, la solución desarrollada y las decisiones tomadas.
 
