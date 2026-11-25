@@ -115,4 +115,4 @@ Todos los integrantes deben participar en la exposición con sus cámaras prendi
 
 ---
 
-**Última actualización:** [DD/MM/AAAA]
+**Última actualización:** [24/11/2026]
