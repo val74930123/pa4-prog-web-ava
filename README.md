@@ -93,7 +93,7 @@ Evidencias de la Act. 1B (autenticación JWT): `docs/evidencias-act1b/`.
 
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
-| [Valeria Ravina Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits en GitHub y capturas de la Act. 1A en `docs/evidencias/`] |
+| [Valeria Ravina Pérez] | [Alta] | [Alta] | [Alta] | [Sí] | [Commits en GitHub y capturas de la Act. 1A en `docs/evidencias/act1`] |
 | [Alejandro Daniel Quispe Nieto] | [Alta] | [Alta] | [Alta] | [Si] | [Commits en GitHub y capturas de la Act. 3 en `docs/evidencias-act-3/`] |
 | Rodrigo Arturo Paredes Santa Cruz | Alta | Alta | Alta | Sí | Commits en GitHub y capturas de la Act. 2 en `docs/evidencias-act2/`|
 | Alejandro Chero Izaguirre | Alta | Alta | Alta | Sí | Commits en GitHub, documentacion y capturas de la Act. 4 en `docs/evidencias-act4/` |
